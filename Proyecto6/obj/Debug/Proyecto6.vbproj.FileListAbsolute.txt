@@ -1,0 +1,14 @@
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\bin\Debug\Proyecto6.exe.config
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\bin\Debug\Proyecto6.exe
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\bin\Debug\Proyecto6.pdb
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\bin\Debug\Proyecto6.xml
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\obj\Debug\Proyecto6.vbprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\obj\Debug\Proyecto6.Form1.resources
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\obj\Debug\Proyecto6.Resources.resources
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\obj\Debug\Proyecto6.vbproj.GenerateResource.cache
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\obj\Debug\Proyecto6.vbproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\obj\Debug\Proyecto6.vbproj.CopyComplete
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\obj\Debug\Proyecto6.exe
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\obj\Debug\Proyecto6.xml
+C:\Users\Manuel\source\repos\Proyecto6\Proyecto6\obj\Debug\Proyecto6.pdb
