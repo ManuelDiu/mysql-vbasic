@@ -31,10 +31,8 @@ Public Class Form1
             TextBox3.Text = fila.Cells(2).Value.ToString()
             TextBox4.Text = fila.Cells(3).Value.ToString()
         Catch ex As Exception
-
         End Try
     End Sub
-
     Private Sub grdVeterinaria_SelectionChanged(sender As Object, e As EventArgs) Handles grdVeterinaria.SelectionChanged
         If (grdVeterinaria.SelectedRows.Count > 0) Then
             TextBox1.Text = grdVeterinaria.Item("nombre", grdVeterinaria.SelectedRows(0).Index).Value

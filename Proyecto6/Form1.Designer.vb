@@ -97,11 +97,14 @@ Partial Class Form1
         '
         'grdVeterinaria
         '
+        Me.grdVeterinaria.AllowUserToAddRows = False
+        Me.grdVeterinaria.AllowUserToDeleteRows = False
         Me.grdVeterinaria.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grdVeterinaria.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.grdVeterinaria.Location = New System.Drawing.Point(15, 200)
         Me.grdVeterinaria.Name = "grdVeterinaria"
+        Me.grdVeterinaria.ReadOnly = True
         Me.grdVeterinaria.Size = New System.Drawing.Size(483, 191)
         Me.grdVeterinaria.TabIndex = 6
         '
